@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1,
+    "type": "reading-comprehension",
+    "title": "Native American Transportation",
+    "passage": "The Native American people of Oregon transported themselves and their goods on foot, by canoe, by raft, by dog, and by horse. Each tribe used methods suited to the terrain, the type of load, and the desired speed. Canoes were especially important along rivers because they supported trade and communication among tribes.",
+    "question": "According to the passage, why did Native Americans in Oregon use different transportation methods?",
+    "options": [
+      "Because they preferred faster transportation",
+      "Because transportation depended on terrain and purpose",
+      "Because horses were always available",
+      "Because rivers were difficult to cross"
+    ],
+    "answer": "Because transportation depended on terrain and purpose",
+    "explanation": "The passage explains that Native Americans selected transportation methods based on terrain, load type, and speed."
+  },
+  {
+    "id": 2,
+    "type": "reading-comprehension",
+    "title": "Trade Along the Columbia River",
+    "passage": "Canoes played a major role in transportation along the Columbia River. Native American tribes used them to carry goods, travel long distances, and maintain communication with neighboring tribes. Rivers provided efficient routes for trading activities.",
+    "question": "Why were canoes important along the Columbia River?",
+    "options": [
+      "They improved farming",
+      "They increased communication and trade",
+      "They were used only for hunting",
+      "They replaced horses"
+    ],
+    "answer": "They increased communication and trade",
+    "explanation": "The passage states that canoes contributed to trading and communication among tribes."
+  },
+  {
+    "id": 3,
+    "type": "reading-comprehension",
+    "title": "Turf Houses in Iceland",
+    "passage": "The turf longhouse had a long history in Scandinavia. Most houses in Iceland were built of turf because suitable timber was scarce. Turf houses required careful construction and frequent maintenance, but they provided good insulation against cold weather.",
+    "question": "According to the passage, why were turf houses common in Iceland?",
+    "options": [
+      "Because timber was scarce",
+      "Because stone was unavailable",
+      "Because the climate was warm",
+      "Because turf was expensive"
+    ],
+    "answer": "Because timber was scarce",
+    "explanation": "The passage states that the scarcity of timber favored turf construction."
+  },
+  {
+    "id": 4,
+    "type": "reading-comprehension",
+    "title": "Gold as Early Currency",
+    "passage": "Gold was widely used as money in ancient civilizations because it was durable and valuable. However, transporting large quantities of gold over long distances was expensive and dangerous. For this reason, paper money later became more practical in many societies.",
+    "question": "According to the passage, what was one disadvantage of using gold as money?",
+    "options": [
+      "It was too common",
+      "It was difficult to transport",
+      "It lost value quickly",
+      "It could not be traded"
+    ],
+    "answer": "It was difficult to transport",
+    "explanation": "The passage explains that transporting large amounts of gold was expensive and risky."
+  },
+  {
+    "id": 5,
+    "type": "reading-comprehension",
+    "title": "Evolution of Reptiles",
+    "passage": "Reptiles became dominant over amphibians millions of years ago because they adapted more successfully to life on land. Their eggs could survive in dry environments, and their skin prevented excessive water loss. Amphibians, by contrast, remained dependent on moist habitats.",
+    "question": "According to the passage, why did reptiles become dominant over amphibians?",
+    "options": [
+      "They reproduced faster",
+      "They were larger",
+      "They adapted better to life on land",
+      "They lived longer"
+    ],
+    "answer": "They adapted better to life on land",
+    "explanation": "Reptiles could survive full-time on dry land more effectively than amphibians."
+  },
+  {
+    "id": 6,
+    "type": "reading-comprehension",
+    "title": "Ant Communication",
+    "passage": "Ants communicate primarily through chemicals called pheromones. Worker ants leave pheromone trails when they discover food so that other ants can follow the same route. These trails help colonies gather food efficiently and coordinate activities.",
+    "question": "Why did ants leave pheromone trails?",
+    "options": [
+      "To scare predators",
+      "To mark the route to food",
+      "To attract mates",
+      "To defend territory"
+    ],
+    "answer": "To mark the route to food",
+    "explanation": "Worker ants deposit pheromones to guide other ants to food sources."
+  },
+  {
+    "id": 7,
+    "type": "reading-comprehension",
+    "title": "Acupuncture Research",
+    "passage": "Research in the United States has examined the effectiveness of acupuncture in treating pain. Some studies suggest that acupuncture may stimulate nerves and muscles, reducing discomfort in certain patients. However, scientists continue to investigate its long-term effects.",
+    "question": "What is the main topic of the passage?",
+    "options": [
+      "The history of surgery",
+      "Research on acupuncture for pain relief",
+      "The dangers of acupuncture",
+      "Traditional medicine in Europe"
+    ],
+    "answer": "Research on acupuncture for pain relief",
+    "explanation": "The passage discusses studies related to acupuncture and pain treatment."
+  },
+  {
+    "id": 8,
+    "type": "reading-comprehension",
+    "title": "River Otters",
+    "passage": "River otters are excellent swimmers that can close their ears and nostrils underwater. Their streamlined bodies and powerful tails allow them to move quickly through rivers and lakes. Otters feed mainly on fish and other aquatic animals.",
+    "question": "According to the passage, what helps river otters swim efficiently?",
+    "options": [
+      "Their long legs",
+      "Their powerful tails",
+      "Their sharp claws",
+      "Their thick fur"
+    ],
+    "answer": "Their powerful tails",
+    "explanation": "The passage states that powerful tails help otters move quickly through water."
+  },
+  {
+    "id": 9,
+    "type": "subject-verb",
+    "question": "Each of the students ___ present during the seminar.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "'Each' is singular, therefore it takes the singular verb 'is'."
+  },
+  {
+    "id": 10,
+    "type": "subject-verb",
+    "question": "The number of employees ___ increasing every year.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "'The number' is treated as a singular subject."
+  },
+  {
+    "id": 11,
+    "type": "subject-verb",
+    "question": "Neither of the books ___ available in the library.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "explanation": "'Neither' is singular and requires a singular verb."
+  },
+  {
+    "id": 12,
+    "type": "subject-verb",
+    "question": "Every student in the class ___ required to submit the assignment.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "explanation": "'Every student' is singular."
+  },
+  {
+    "id": 13,
+    "type": "structure",
+    "question": "Astronomers devote much effort ___ about the origin of asteroids.",
+    "options": [
+      "learn",
+      "to learning",
+      "learned",
+      "they learn"
+    ],
+    "answer": "to learning",
+    "explanation": "The phrase 'devote effort to' is followed by a gerund."
+  },
+  {
+    "id": 14,
+    "type": "structure",
+    "question": "Dubbing is used in filmmaking ___ a new soundtrack to a motion picture.",
+    "options": [
+      "to add",
+      "which to add",
+      "as adding",
+      "to adding"
+    ],
+    "answer": "to add",
+    "explanation": "The infinitive form expresses purpose."
+  },
+  {
+    "id": 15,
+    "type": "structure",
+    "question": "The approximately twelve species of river otters are swimmers ___ close their ears and nostrils underwater.",
+    "options": [
+      "that can",
+      "can",
+      "which can they",
+      "how can"
+    ],
+    "answer": "that can",
+    "explanation": "A relative clause is needed to complete the sentence correctly."
+  },
+  {
+    "id": 16,
+    "type": "structure",
+    "question": "The Sherman Antitrust Act of 1890 ___ nearly unanimously through Congress.",
+    "options": [
+      "passed",
+      "passing",
+      "having passed",
+      "in passed"
+    ],
+    "answer": "passed",
+    "explanation": "The sentence requires a simple past tense verb."
+  },
+  {
+    "id": 17,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: Children use grammatically correct sentences by the age of three and produces highly complex constructions by the age of five.",
+    "options": [
+      "Children",
+      "grammatically",
+      "produces",
+      "complex"
+    ],
+    "answer": "produces",
+    "explanation": "Because 'Children' is plural, the correct verb should be 'produce'."
+  },
+  {
+    "id": 18,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: Movies developed simultaneously alike an art form and as an industry.",
+    "options": [
+      "Movies",
+      "simultaneously",
+      "alike",
+      "industry"
+    ],
+    "answer": "alike",
+    "explanation": "The correct phrase is 'as an art form'."
+  },
+  {
+    "id": 19,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: Research in the United States on acupuncture has focused on it use in pain relief.",
+    "options": [
+      "Research",
+      "focused",
+      "it",
+      "relief"
+    ],
+    "answer": "it",
+    "explanation": "The possessive pronoun 'its' should be used."
+  },
+  {
+    "id": 20,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: The professor was interesting in the results of the scientific experiment.",
+    "options": [
+      "professor",
+      "interesting",
+      "results",
+      "scientific"
+    ],
+    "answer": "interesting",
+    "explanation": "The correct adjective is 'interested', not 'interesting'."
+  },
+  {
+    "id": 21,
+    "type": "vocabulary",
+    "question": "The word 'principal' is closest in meaning to ___.",
+    "options": [
+      "secondary",
+      "main",
+      "ordinary",
+      "minor"
+    ],
+    "answer": "main",
+    "explanation": "'Principal' means main or most important."
+  },
+  {
+    "id": 22,
+    "type": "vocabulary",
+    "question": "The word 'scarcity' is closest in meaning to ___.",
+    "options": [
+      "abundance",
+      "lack",
+      "quality",
+      "expense"
+    ],
+    "answer": "lack",
+    "explanation": "'Scarcity' means shortage or lack."
+  },
+  {
+    "id": 23,
+    "type": "vocabulary",
+    "question": "The word 'intermittently' is closest in meaning to ___.",
+    "options": [
+      "constantly",
+      "periodically",
+      "rapidly",
+      "incorrectly"
+    ],
+    "answer": "periodically",
+    "explanation": "'Intermittently' means occurring at intervals."
+  },
+  {
+    "id": 24,
+    "type": "vocabulary",
+    "question": "The word 'durable' is closest in meaning to ___.",
+    "options": [
+      "fragile",
+      "long-lasting",
+      "expensive",
+      "valuable"
+    ],
+    "answer": "long-lasting",
+    "explanation": "'Durable' means able to last for a long time."
+  },
+  {
+    "id": 25,
+    "type": "reading-comprehension",
+    "title": "The Printing Press",
+    "passage": "The invention of the printing press by Johannes Gutenberg in the fifteenth century greatly increased the spread of knowledge in Europe. Books became less expensive to produce, and literacy rates gradually improved as more people gained access to written materials.",
+    "question": "What was one effect of the printing press?",
+    "options": [
+      "Books became more expensive",
+      "Literacy rates improved",
+      "People stopped writing books",
+      "Europeans traveled less"
+    ],
+    "answer": "Literacy rates improved",
+    "explanation": "The passage explains that greater access to books helped improve literacy."
+  },
+  {
+    "id": 26,
+    "type": "reading-comprehension",
+    "title": "Volcano Formation",
+    "passage": "Volcanoes are formed when magma from beneath the Earth's surface rises through cracks in the crust. Over time, repeated eruptions build layers of lava and ash, eventually creating mountains.",
+    "question": "How are volcanoes formed?",
+    "options": [
+      "By strong winds",
+      "By erosion from rivers",
+      "By magma rising through the Earth's crust",
+      "By earthquakes alone"
+    ],
+    "answer": "By magma rising through the Earth's crust",
+    "explanation": "The passage states that volcanoes form when magma rises through cracks in the crust."
+  },
+  {
+    "id": 27,
+    "type": "reading-comprehension",
+    "title": "Honeybees",
+    "passage": "Honeybees are important pollinators because they transfer pollen from one flower to another while collecting nectar. This process helps many plants reproduce and contributes to agricultural production.",
+    "question": "Why are honeybees important?",
+    "options": [
+      "They destroy insects",
+      "They improve soil quality",
+      "They help plants reproduce",
+      "They produce oxygen"
+    ],
+    "answer": "They help plants reproduce",
+    "explanation": "Honeybees transfer pollen, which supports plant reproduction."
+  },
+  {
+    "id": 28,
+    "type": "subject-verb",
+    "question": "One of the teachers ___ absent today.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "answer": "is",
+    "explanation": "'One' is singular, so it takes the singular verb 'is'."
+  },
+  {
+    "id": 29,
+    "type": "subject-verb",
+    "question": "The news ___ surprising to everyone.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": "is",
+    "explanation": "'News' is treated as a singular noun."
+  },
+  {
+    "id": 30,
+    "type": "subject-verb",
+    "question": "A number of students ___ participating in the competition.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "'A number of' takes a plural verb."
+  },
+  {
+    "id": 31,
+    "type": "structure",
+    "question": "The scientist insisted on ___ the experiment again.",
+    "options": [
+      "repeat",
+      "repeating",
+      "repeated",
+      "to repeat"
+    ],
+    "answer": "repeating",
+    "explanation": "The preposition 'on' is followed by a gerund."
+  },
+  {
+    "id": 32,
+    "type": "structure",
+    "question": "The manager asked the employees ___ the report before Friday.",
+    "options": [
+      "submit",
+      "submitted",
+      "to submit",
+      "submitting"
+    ],
+    "answer": "to submit",
+    "explanation": "The pattern 'ask someone to do something' requires an infinitive."
+  },
+  {
+    "id": 33,
+    "type": "structure",
+    "question": "___ the heavy rain, the football match continued.",
+    "options": [
+      "Although",
+      "Despite",
+      "Because",
+      "Since"
+    ],
+    "answer": "Despite",
+    "explanation": "'Despite' is followed by a noun phrase."
+  },
+  {
+    "id": 34,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: The students has completed their assignments before the deadline.",
+    "options": [
+      "students",
+      "has",
+      "their",
+      "deadline"
+    ],
+    "answer": "has",
+    "explanation": "'Students' is plural, so the correct verb should be 'have'."
+  },
+  {
+    "id": 35,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: The lecture was so bored that several students fell asleep.",
+    "options": [
+      "lecture",
+      "bored",
+      "students",
+      "asleep"
+    ],
+    "answer": "bored",
+    "explanation": "The correct adjective should be 'boring'."
+  },
+  {
+    "id": 36,
+    "type": "written-expression",
+    "question": "Identify the incorrect word: She suggested to take the earlier train to avoid traffic.",
+    "options": [
+      "suggested",
+      "to take",
+      "earlier",
+      "avoid"
+    ],
+    "answer": "to take",
+    "explanation": "After 'suggested', a gerund should be used: 'taking'."
+  },
+  {
+    "id": 37,
+    "type": "vocabulary",
+    "question": "The word 'ancient' is closest in meaning to ___.",
+    "options": [
+      "modern",
+      "old",
+      "recent",
+      "temporary"
+    ],
+    "answer": "old",
+    "explanation": "'Ancient' means very old."
+  },
+  {
+    "id": 38,
+    "type": "vocabulary",
+    "question": "The word 'efficient' is closest in meaning to ___.",
+    "options": [
+      "wasteful",
+      "effective",
+      "slow",
+      "careless"
+    ],
+    "answer": "effective",
+    "explanation": "'Efficient' means working well without wasting time or energy."
+  },
+  {
+    "id": 39,
+    "type": "vocabulary",
+    "question": "The word 'maintain' is closest in meaning to ___.",
+    "options": [
+      "destroy",
+      "preserve",
+      "remove",
+      "forget"
+    ],
+    "answer": "preserve",
+    "explanation": "'Maintain' means to keep or preserve something."
+  },
+  {
+    "id": 40,
+    "type": "inference",
+    "title": "Desert Animals",
+    "passage": "Many desert animals are active only at night. During the daytime, temperatures in the desert can become extremely high, making survival difficult.",
+    "question": "Why are many desert animals active at night?",
+    "options": [
+      "Because they prefer darkness",
+      "Because food is only available at night",
+      "Because daytime temperatures are too hot",
+      "Because predators sleep at night"
+    ],
+    "answer": "Because daytime temperatures are too hot",
+    "explanation": "The passage implies that animals avoid daytime heat by being active at night."
+  },
+  {
+    "id": 41,
+    "type": "inference",
+    "title": "Online Learning",
+    "passage": "Many universities now provide online courses that students can access from anywhere with an internet connection. As a result, people with full-time jobs can continue their education more easily.",
+    "question": "What can be inferred from the passage?",
+    "options": [
+      "Online courses are cheaper than traditional classes",
+      "People who work full-time benefit from online education",
+      "Universities no longer offer classroom learning",
+      "Internet access is unnecessary for online learning"
+    ],
+    "answer": "People who work full-time benefit from online education",
+    "explanation": "The passage suggests that flexible online learning helps working individuals continue studying."
+  },
+  {
+    "id": 42,
+    "type": "error-recognition",
+    "question": "Identify the incorrect word: Neither the manager nor the employees was aware of the new policy.",
+    "options": [
+      "Neither",
+      "employees",
+      "was",
+      "policy"
+    ],
+    "answer": "was",
+    "explanation": "The verb should agree with the nearest subject 'employees', so 'were' is correct."
+  },
+  {
+    "id": 43,
+    "type": "error-recognition",
+    "question": "Identify the incorrect word: The equipment in the laboratories are very modern.",
+    "options": [
+      "equipment",
+      "laboratories",
+      "are",
+      "modern"
+    ],
+    "answer": "are",
+    "explanation": "'Equipment' is uncountable and singular, so the verb should be 'is'."
+  },
+  {
+    "id": 44,
+    "type": "sentence-completion",
+    "question": "If I ___ enough money, I would travel around the world.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answer": "had",
+    "explanation": "This is a second conditional sentence, requiring the past form 'had'."
+  }
+]
