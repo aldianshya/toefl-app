@@ -58,8 +58,8 @@ export default function App() {
 
   const startTest = async () => {
     const res = await fetch(
-      `http://localhost:3000/api/questions?type=${type}&count=${count}`
-    );
+  `/api/questions?type=${type}&count=${count}`
+);
 
     const data = await res.json();
 
